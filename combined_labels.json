@@ -1,0 +1,10 @@
+{
+  "O": 0,
+  "B-UNIVERSITE": 1,
+  "B-BOLUM": 2,
+  "I-UNIVERSITE": 3,
+  "I-BOLUM": 4,
+  "B-NUMARA": 5,
+  "B-ISIM": 6,
+  "B-SOYISIM": 7
+}
